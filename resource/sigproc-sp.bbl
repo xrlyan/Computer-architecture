@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+
+\bibitem{Baer:1995:EHD:626514.627012}
+J.-L. Baer and T.-F. Chen.
+\newblock Effective hardware-based data prefetching for high-performance
+  processors.
+\newblock {\em IEEE Trans. Comput.}, 44(5):609--623, May 1995.
+
+\bibitem{Chen:1994:PSS:192007.192030}
+T.-F. Chen and J.-L. Baer.
+\newblock A performance study of software and hardware data prefetching
+  schemes.
+\newblock {\em SIGARCH Comput. Archit. News}, 22(2):223--232, Apr. 1994.
+
+\bibitem{Choi:2004:GFP:986533.986536}
+S.~Choi, N.~Kohout, S.~Pamnani, D.~Kim, and D.~Yeung.
+\newblock A general framework for prefetch scheduling in linked data structures
+  and its application to multi-chain prefetching.
+\newblock {\em ACM Trans. Comput. Syst.}, 22(2):214--280, May 2004.
+
+\bibitem{Collins:2002:PCA:774861.774869}
+J.~Collins, S.~Sair, B.~Calder, and D.~M. Tullsen.
+\newblock Pointer cache assisted prefetching.
+\newblock In {\em Proceedings of the 35th Annual ACM/IEEE International
+  Symposium on Microarchitecture}, MICRO 35, pages 62--73, Los Alamitos, CA,
+  USA, 2002. IEEE Computer Society Press.
+
+\bibitem{Cooksey:2002:SCD:635506.605427}
+R.~Cooksey, S.~Jourdan, and D.~Grunwald.
+\newblock A stateless, content-directed data prefetching mechanism.
+\newblock {\em SIGARCH Comput. Archit. News}, 30(5):279--290, Oct. 2002.
+
+\bibitem{4798232}
+E.~Ebrahimi, O.~Mutlu, and Y.~Patt.
+\newblock Techniques for bandwidth-efficient prefetching of linked data
+  structures in hybrid prefetching systems.
+\newblock In {\em High Performance Computer Architecture, 2009. HPCA 2009. IEEE
+  15th International Symposium on}, pages 7--17, Feb 2009.
+
+\bibitem{Guo:2011:EHD:1993125.1993134}
+Y.~Guo, P.~Narayanan, M.~A. Bennaser, S.~Chheda, and C.~A. Moritz.
+\newblock Energy-efficient hardware data prefetching.
+\newblock {\em IEEE Trans. Very Large Scale Integr. Syst.}, 19(2):250--263,
+  Feb. 2011.
+
+\bibitem{Harrison:1996:EMA:237578.237595}
+L.~Harrison.
+\newblock Examination of a memory access classification scheme for
+  pointer-intensive and numeric programs.
+\newblock In {\em Proceedings of the 10th International Conference on
+  Supercomputing}, ICS '96, pages 133--140, New York, NY, USA, 1996. ACM.
+
+\bibitem{Hughes:2005:MPL:1066486.1066491}
+C.~J. Hughes and S.~V. Adve.
+\newblock Memory-side prefetching for linked data structures for
+  processor-in-memory systems.
+\newblock {\em J. Parallel Distrib. Comput.}, 65(4):448--463, Apr. 2005.
+
+\bibitem{824351}
+M.~Karlsson, F.~Dahlgren, and P.~Stenstrom.
+\newblock A prefetching technique for irregular accesses to linked data
+  structures.
+\newblock In {\em High-Performance Computer Architecture, 2000. HPCA-6.
+  Proceedings. Sixth International Symposium on}, pages 206--217, 2000.
+
+\bibitem{Luk:1996:CPR:248208.237190}
+C.-K. Luk and T.~C. Mowry.
+\newblock Compiler-based prefetching for recursive data structures.
+\newblock {\em SIGOPS Oper. Syst. Rev.}, 30(5):222--233, Sept. 1996.
+
+\bibitem{Onder:2002:CEM:645989.674303}
+S.~\"{O}nder.
+\newblock Cost effective memory dependence prediction using speculation levels
+  and color sets.
+\newblock In {\em Proceedings of the 2002 International Conference on Parallel
+  Architectures and Compilation Techniques}, PACT '02, pages 232--, Washington,
+  DC, USA, 2002. IEEE Computer Society.
+
+\bibitem{Rogers:1995:SDD:201059.201065}
+A.~Rogers, M.~C. Carlisle, J.~H. Reppy, and L.~J. Hendren.
+\newblock Supporting dynamic data structures on distributed-memory machines.
+\newblock {\em ACM Trans. Program. Lang. Syst.}, 17(2):233--263, Mar. 1995.
+
+\bibitem{Roth:1998:DBP:384265.291034}
+A.~Roth, A.~Moshovos, and G.~S. Sohi.
+\newblock Dependence based prefetching for linked data structures.
+\newblock {\em SIGOPS Oper. Syst. Rev.}, 32(5):115--126, Oct. 1998.
+
+\bibitem{Roth:1999:EJP:307338.300989}
+A.~Roth and G.~S. Sohi.
+\newblock Effective jump-pointer prefetching for linked data structures.
+\newblock {\em SIGARCH Comput. Archit. News}, 27(2):111--121, May 1999.
+
+\bibitem{Vanderwiel:2000:DPM:358923.358939}
+S.~P. Vanderwiel and D.~J. Lilja.
+\newblock Data prefetch mechanisms.
+\newblock {\em ACM Comput. Surv.}, 32(2):174--199, June 2000.
+
+\bibitem{Wang:2003:GRP:871656.859663}
+Z.~Wang, D.~Burger, K.~S. McKinley, S.~K. Reinhardt, and C.~C. Weems.
+\newblock Guided region prefetching: A cooperative hardware/software approach.
+\newblock {\em SIGARCH Comput. Archit. News}, 31(2):388--398, May 2003.
+
+\bibitem{Yang:2002:PMH:646349.690705}
+C.-L. Yang and A.~R. Lebeck.
+\newblock A programmable memory hierarchy for prefetching linked data
+  structures.
+\newblock In {\em Proceedings of the 4th International Symposium on High
+  Performance Computing}, ISHPC '02, pages 160--174, London, UK, UK, 2002.
+  Springer-Verlag.
+
+\end{thebibliography}

@@ -1,0 +1,20 @@
+(TeX-add-style-hook "sigproc"
+ (lambda ()
+    (LaTeX-add-bibitems
+     "Vanderwiel:2000:DPM:358923.358939"
+     "Roth:1999:EJP:307338.300989"
+     "Roth:1998:DBP:384265.291034"
+     "Chen:1994:PSS:192007.192030"
+     "Choi:2004:GFP:986533.986536"
+     "Wang:2003:GRP:871656.859663"
+     "Guo:2011:EHD:1993125.1993134"
+     "Collins:2002:PCA:774861.774869"
+     "Yang:2002:PMH:646349.690705"
+     "Baer:1995:EHD:626514.627012"
+     "Harrison:1996:EMA:237578.237595"
+     "Luk:1996:CPR:248208.237190"
+     "Rogers:1995:SDD:201059.201065"
+     "Cooksey:2002:SCD:635506.605427"
+     "Onder:2002:CEM:645989.674303"
+     "Hughes:2005:MPL:1066486.1066491")))
+
