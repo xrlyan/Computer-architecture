@@ -1,0 +1,10 @@
+
+
+
+1.    all code files are in the folder "liang--yan", it contains an make file, 
+      so you can print make to create the "main" execute file and make clean 
+      to remove it.the test file should be in the same folder. the result will  
+      be writen in a result.txt file.
+
+2.   there are two pdf file, report.pdf is the report. There also is a code.pdf,
+     I put all the code in this file to save paper, you can just print it out.  
